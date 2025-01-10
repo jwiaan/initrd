@@ -1,0 +1,9 @@
+bash
+ls
+mkdir
+mount
+ps
+grep
+cat
+vim
+clear
